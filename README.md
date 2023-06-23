@@ -54,3 +54,6 @@
 
 
 ## Pytorch官方实现的FCN网络框架图
+![torch_fcn](https://github.com/xiaomi0001/ResNet-FCN-Pytorch/assets/87980386/345ce2f0-b9cf-4749-b37a-267ec9125f42)
+
+
